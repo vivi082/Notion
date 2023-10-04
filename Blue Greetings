@@ -1,0 +1,13 @@
+if (hrs < 12)
+        greet = 'Good Morning Violet;
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon Violet;
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening Violet;.card {
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+    background: #2E508F;
+    color: #2E508F;
+    display: inline-block;
+    box-shadow: 2px 2px 1px 0px #295C7B;
+}
